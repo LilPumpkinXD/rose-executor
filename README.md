@@ -5,5 +5,6 @@
 * Open the terminal app.
 * Copy and paste this command.
 ```bash
+cd ./Desktop
 git clone 
 ```
