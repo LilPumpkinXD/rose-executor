@@ -6,5 +6,7 @@
 * Copy and paste this command.
 ```bash
 cd ./Desktop
-git clone 
+git clone https://github.com/LilPumpkinXD/rose-executor.git
+cd rose-executor
+sh install.sh
 ```
