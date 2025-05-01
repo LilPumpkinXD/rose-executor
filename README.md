@@ -1,2 +1,2 @@
 # Rose Executor v1.0
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+## A fast, reliable, and easy to use roblox executor designed for macOS.
